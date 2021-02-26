@@ -1,0 +1,35 @@
+<html>
+<head> <title> MATH </title> </head>
+<body>
+
+<p align="center">
+<body background="background.jpg.png">
+
+<p align="center">
+<font color="white", size="10", face="Times New Roman">
+<br>
+<b> <i> TOMORROW </i> </b> </font></center>
+<p align="center">
+<img src="mathdrawing.jpg.jpg", width="900", length="900"> </img>
+<p align="center">
+<font color="white", size="5", face="Times New Roman">
+The drawing shows hope and freedom, as you can see the hands breaks free
+<br>
+from the chain and is reaching for the bird symbolizing freedom. Just like
+<br>
+this pandemic, one day we will break free from all the hardship were
+<br>
+experiencing right now and reach the freedom we need, we just need to have
+<br>
+faith and be hopeful. In other words freedom is always present in those times
+<br>
+you felt there is no one beside you and there is a person who control your life 
+<br>
+and they are the one who decide for the better we need to have freedom 
+<br>
+we choose,we decide for our own life. </font></center>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B5ENHI18RYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
